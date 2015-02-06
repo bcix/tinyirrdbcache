@@ -27,9 +27,9 @@ Notes/Known Issues
 Usage
 -----
 
- - Download the file and run "nodejs <filename>"
- - Wait for databases to be cached (signified by "Exported <dbname>")
- - When rerunning and cache files are found, wait for "Import done; <dbname>"
+ - Download the file and run "node *filename*"
+ - Wait for databases to be cached (signified by "Exported *dbname*")
+ - When rerunning and cache files are found, wait for "Import done; *dbname*"
 
 try
  - curl localhost:8086/ripe/AS-CHAOS/v6
